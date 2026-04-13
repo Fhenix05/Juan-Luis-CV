@@ -98,27 +98,23 @@
 
 ---
 
----
-
----
-
 ## 🏆 Certificados
 
 <div align="center">
 
-<a href="TU_LINK_CCNA">
+<a href="https://drive.google.com/drive/folders/13SyXnxvOFqvQv2EVes7e2Fm9ISJST4V8">
   <img src="https://img.shields.io/badge/CCNA-Introducción%20a%20las%20Redes-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 </a>
 
 <br><br>
 
-<a href="TU_LINK_ORACLE">
+<a href="https://drive.google.com/drive/folders/1AhPlqzpKxnRS8lnV6YrfipnC8OMfu9dS">
   <img src="https://img.shields.io/badge/Oracle%20APEX-Low--Code-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </a>
 
 <br><br>
 
-<a href="TU_LINK_HACKATHON">
+<a href="https://drive.google.com/drive/folders/10I3bgj8d8Je1-AgQYtNFBsbsDS4pgRl7">
   <img src="https://img.shields.io/badge/Hackathon-24%20Horas-6A0572?style=for-the-badge&logo=hackthebox&logoColor=white">
 </a>
 
