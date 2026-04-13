@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fhenix05/Fhenix05/main/Foto.jpg" width="180" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/Fhenix05/Fhenix05/main/Foto.jpg" width="280" style="border-radius:50%" />
 </div>
 
 ---
@@ -56,8 +56,8 @@
 
 | 🚀 Proyecto                             | 💡 Descripción                                        | 👥 Colaboradores                                                                                       | ⚙️ Tecnologías                                    | 🔗 Link                                                   |
 | --------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------- | --------------------------------------------------------- |
-| 🧠 Sistema de Citas Psicológicas (CIDU) | Gestión de usuarios, citas y panel administrativo     | • Tec. Cesar Alejandro Baez Moya <br> • Tec. Fátima Paola Cortes Avendaño                              | Django, Python, MySQL, HTML, CSS, JavaScript      | [Ver repositorio](https://github.com/Fhenix05/Citas-CIDU) |
-| 📚 Sistema Web Bibliotecario            | Control de préstamos, usuarios y libros               | • Tec. Axel Lázaro López Cornejo <br> • Tec. Itzel Conde Ramos <br> • Tec. Bryan Charlotte Núñez Gómez | Django, Python, PostgreSQL, HTML, CSS, JavaScript | [Ver proyecto](AQUI_TU_LINK)                              |
+| 🧠 Sistema de Citas Psicológicas (CIDU) | Gestión de usuarios, citas y panel administrativo     | • Tec. Cesar Alejandro Baez Moya <br> • Tec. Fátima Paola Cortes Avendaño                              | Django, Python, MySQL, HTML, CSS, JavaScript      | [Ver proyecto](https://drive.google.com/drive/folders/1ifsBik0fHRqkSllkm-FeA_aSyf2SfkiE) |
+| 📚 Sistema Web Bibliotecario            | Control de préstamos, usuarios y libros               | • Tec. Axel Lázaro López Cornejo <br> • Tec. Itzel Conde Ramos <br> • Tec. Bryan Charlotte Núñez Gómez | Django, Python, PostgreSQL, HTML, CSS, JavaScript | [Ver proyecto](https://drive.google.com/drive/folders/1ifsBik0fHRqkSllkm-FeA_aSyf2SfkiE)                              |
 | 🧬 Rick & Morty App                     | Consumo de API con renderizado dinámico de personajes | • Individual                                                                                           | JavaScript, API REST, HTML, CSS                   | [Ver proyecto](https://fhenix05.github.io/rickandmorty/)  |
 | 🎸 App de Guitarras                     | Simulación de e-commerce con carrito de compras       | • Individual                                                                                           | JavaScript, LocalStorage, HTML, CSS               | [Ver proyecto](https://fhenix05.github.io/GuitarsApp/)    |
 | 🌐 Landing Page                         | Página responsive adaptable a distintos dispositivos  | • Individual                                                                                           | HTML, CSS                                         | [Ver proyecto](https://larningpagejuan.netlify.app/)      |
@@ -98,26 +98,51 @@
 
 ---
 
-## 📫 Contacto
-
-<div align="center">
-
-📧 **[juanluisparrasosa@gmail.com](mailto:juanluisparrasosa@gmail.com)**
-📱 **241 194 8929**
-
-</div>
+---
 
 ---
 
-## 🔗 Links
+## 🏆 Certificados
 
 <div align="center">
+
+<a href="TU_LINK_CCNA">
+  <img src="https://img.shields.io/badge/CCNA-Introducción%20a%20las%20Redes-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="TU_LINK_ORACLE">
+  <img src="https://img.shields.io/badge/Oracle%20APEX-Low--Code-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="TU_LINK_HACKATHON">
+  <img src="https://img.shields.io/badge/Hackathon-24%20Horas-6A0572?style=for-the-badge&logo=hackthebox&logoColor=white">
+</a>
+
+</div>
+
+
+---
+
+---
+
+## 🔗 Contacto
+
+<div align="center">
+
+<a href="mailto:juanluisparrasosa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <a href="https://github.com/Fhenix05">
   <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github">
 </a>
 
 </div>
+
 
 ---
 
