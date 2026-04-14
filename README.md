@@ -3,7 +3,7 @@
 <h2 align="center">Desarrollador de Software Multiplataforma </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3000&pause=400&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desarrollador+Multiplataforma;Apasionado+por+la+tecnología;Backend+con+Django;Frontend+Web;Siempre+aprendiendo+nuevas+cosas🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=400&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desarrollador+Multiplataforma;Backend+con+Django;Frontend+Web" />
 </p>
 
 ---
