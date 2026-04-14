@@ -129,6 +129,14 @@
 
 <div align="center">
 
+<a href="https://github.com/Fhenix05/Fhenix05/blob/main/cv.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Ver%20CV-blue?style=for-the-badge">
+</a>
+
+<a href="https://raw.githubusercontent.com/Fhenix05/Fhenix05/main/cv.pdf">
+  <img src="https://img.shields.io/badge/⬇️%20Descargar%20CV-green?style=for-the-badge">
+</a>
+
 <a href="mailto:juanluisparrasosa@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -138,7 +146,6 @@
 </a>
 
 </div>
-
 
 ---
 
