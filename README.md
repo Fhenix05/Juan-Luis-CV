@@ -1,7 +1,9 @@
+<h1 align="center">Bienvenido a mi repositorio en Github</h1>
 <h1 align="center">🚀 Juan Luis Parra Sosa</h1>
+<h2 align="center">Desarrollador de Software Multiplataforma </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=40&duration=3000&pause=400&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desarrollador+Multiplataforma;Apasionado+por+la+tecnología;Backend+con+Django;Frontend+Web;Siempre+aprendiendo+nuevas+cosas🔥" />
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3000&pause=400&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desarrollador+Multiplataforma;Apasionado+por+la+tecnología;Backend+con+Django;Frontend+Web;Siempre+aprendiendo+nuevas+cosas🔥" />
 </p>
 
 ---
@@ -151,8 +153,21 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
+<table>
+<tr>
 
-🔥 *Code. Learn. Improve. Repeat.* 🔥
+<td align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/><br>
+  🔥 <i>Code. Learn. Improve. Repeat.</i> 🔥
+</td>
+
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Fhenix05/Fhenix05/main/fhenix.png" width="220"/>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 </div>
